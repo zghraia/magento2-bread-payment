@@ -6,6 +6,7 @@
 * Security Fixes for the following : Secure AJAX requests, Quote ownership checks, 
 Removed sensitive data logging, XSS vulnerable code, insecure direct object reference, 
 cryptographic key storage, server-side validation, detailed error message.
+* Support PHP 8.5
 
 = 2.4.9
 * Fix checkout issue when payment method is selected first
